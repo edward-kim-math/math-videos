@@ -1,0 +1,13 @@
+To divide two fractions, we multiply the first fraction by the reciprocal of the second fraction.
+Recall when multiplying fractions, there is no requirement for a common denominator.
+To multiply fractions, we just multiply straight across.
+So, we are able to convert a problem about dividing fractions into a problem about multiplying fractions.
+Let's look at an example. What is two fifths divided by three sevenths?
+Replace dividing by three sevenths instead with multiplying by seven thirds.
+Now that we are multiplying fractions, we just multiply straight across. Two times seven on top, and five times three on bottom.
+Simplifying the top and bottom, our single fraction is fourteen over fifteen.
+Let's look at another example. What is three tenths divided by seven elevenths?
+The format here looks different, but this is the same as if we wrote three tenths and a traditional division symbol and then seven elevenths.
+Replace dividing by seven elevenths instead with multiplying by eleven sevenths.
+Now that we are multiplying fractions, multiply straight across. Remember, there is no need for a common denominator. So, 3 times 11 on top, and 10 times 7 on bottom.
+Simplifying the top and bottom, we have 33 over 70.

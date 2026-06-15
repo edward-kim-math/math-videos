@@ -1,0 +1,22 @@
+When adding or subtracting fractions, the two fractions that are involved need a common denominator.
+When multiplying or dividing fractions, there is no requirement for a common denominator.
+Let's look at an example. What is two thirds plus three sevenths?
+We will rewrite both fractions to have twenty-one in the denominator.
+For the first fraction, multiply the top and the bottom by seven. We haven't finshed this step, which explains the space after the plus sign.
+For the second fraction, multiply the top and the bottom by three.
+Simplifying each numerator and denominator separately, we have fourteen over twenty-one plus nine over twenty-one.
+Now that we have the same denominator, we only add numerators. Since fourteen plus nine is twenty-three, our single fraction is twenty-three over twenty-one. We prefer improper fractions over mixed fractions.
+Let's look at another example. What is one tenth plus one sixth?
+We could rewrite both fractions to have sixty in the denominator, but ten and six both have a common factor of two, so will rewrite both fractions to have thirty in the denominator.
+For the first fraction, multiply the top and the bottom by three.
+For the second fraction, multiply the top and the bottom by five.
+Simplifying each numerator and denominator separately, we have three over thirty plus five over thirty.
+Now that we have the same denominator, we only add numerators. Since three plus five is eight, our single fraction is eight over thirty.
+We can simplify this fraction by cancelling a factor of two on top and bottom, leaving us with four over fifteen.
+Let's look at another example. What is three fourteenths plus one seventh?
+Since fourteen times seven is ninety-eight, we could rewrite both fractions to have ninety-eight in the denominator, but we can actually just make both fractions have fourteen in the denominator.
+Copy the first fraction as is, with no changes.
+For the second fraction, multiply the top and the bottom by two.
+Unlike in previous examples, we didn't even change how both fractions are written. We only rewrote the second fraction.
+Simplifying the second numerator and denominator separately, we have three over fourteen plus two over fourteen.
+Now that we have the same denominator, we only add numerators. Since three plus two is five, our single fraction is five over fourteen.

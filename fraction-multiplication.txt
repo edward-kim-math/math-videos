@@ -1,0 +1,17 @@
+When multiplying fractions, there is no requirement for a common denominator.
+To multiply fractions, we just multiply straight across.
+Let's look at an example. What is two fifths times three sevenths?
+To multiply fractions, we multiply the numerators together and the denominators together.
+Simplifying the top and bottom, our single fraction is six over thirty-five.
+Let's look at another example. What is one tenth times one sixth?
+As a reminder, for multiplying fractions, there is no need for a common denominator.
+To multiply these fractions, we multiply the numerators together and the denominators together.
+Simplifying the top and bottom, our single fraction is one over sixty.
+Let's look at another example. What is three sevenths times two sevenths?
+Notice both fractions have seven as a denominator. That should not change our process. We will still multiply straight across.
+We multiply numerators three and two together.
+We also multiply the denominators seven and seven together.
+Simplifying the numerator and denominator, we have six over forty-nine.
+The incorrect belief that you need a common denominator to multiply fractions leads people to get the incorrect final answer of six over seven.
+However, we only need a common denominator for adding and subtracting fractions, not multiplying.
+The correct answer is six over forty-nine. The denominator of forty-nine is the result of multiplying the first denominator (which is seven) by the second denominator (which is also coincidentally seven).

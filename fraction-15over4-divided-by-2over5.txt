@@ -1,0 +1,8 @@
+Find 15 over 4 divided by 2 over 5.
+To divide fractions, we multiply by the reciprocal. We only reciprocate the second fraction, and turn division into multiplication at the moment recipcrocation happens.
+So dividing by 2 over 5 turns into multiplying by 5 over 2. Our problem is now 15 over 4 times 5 over 2.
+To multiply fractions, we multiply straight across (whether we have a common denominator or not). So the numerator is 15 times 5, and the denominator is 4 times 2.
+Simplifying the numerator and denominator separately, we have 75 over 8.
+Since 75 and 8 do not share any common factors, this is as simplified as it gets as an improper fraction.
+In most situations in algebra, we leave our answer like this.
+If we need to write this as a mixed fraction, 75 divided by 8 gives us 9 with a remainder of 3, so we would have 9 and 3 over 8. Both are correct: 75 over 8 is correct, and 9 and 3 over 8 is also correct.

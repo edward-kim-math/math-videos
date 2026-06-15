@@ -1,0 +1,22 @@
+When adding or subtracting fractions, the two fractions that are involved need a common denominator.
+When multiplying or dividing fractions, there is no requirement for a common denominator.
+Let's look at an example. What is two thirds minus one half?
+We will rewrite both fractions to have six in the denominator.
+For the first fraction, multiply the top and the bottom by two. We haven't finshed this step, which explains the space after the minus sign.
+For the second fraction, multiply the top and the bottom by three.
+Simplifying each numerator and denominator separately, we have four over six minus three over six.
+Now that we have the same denominator, we only subtract numerators. Since four minus three is one, our single fraction is one over six.
+Let's look at another example. What is one tenth minus one sixth?
+We could rewrite both fractions to have sixty in the denominator, but ten and six both have a common factor of two, so will rewrite both fractions to have thirty in the denominator.
+For the first fraction, multiply the top and the bottom by three.
+For the second fraction, multiply the top and the bottom by five.
+Simplifying each numerator and denominator separately, we have three over thirty minus five over thirty.
+Now that we have the same denominator, we only subtract numerators. Since three minus five is negative two, our single fraction is negative two over thirty.
+We can simplify this fraction by cancelling a factor of two on top and bottom, leaving us with negative one over fifteen.
+Let's look at another example. What is three fourteenths minus one seventh?
+Since fourteen times seven is ninety-eight, we could rewrite both fractions to have ninety-eight in the denominator, but we can actually just make both fractions have fourteen in the denominator.
+Copy the first fraction as is, with no changes.
+For the second fraction, multiply the top and the bottom by two.
+Unlike in previous examples, we didn't even change how both fractions are written. We only rewrote the second fraction.
+Simplifying the second numerator and denominator separately, we have three over fourteen minus two over fourteen.
+Now that we have the same denominator, we only subtract numerators. Since three minus two is one, our single fraction is one over fourteen.

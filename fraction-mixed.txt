@@ -1,0 +1,11 @@
+To convert a mixed fraction into an improper fraction, we multiply the whole number by the denominator of the fractional part, and then add the numerator of the fractional part.
+This gives us the numerator of the improper fraction, and the denominator of the improper fraction is just the denominator of the fractional part.
+Let's look at an example. Write the mixed fraction ten and three fourths as an improper fraction.
+Our numerator is the whole number 10 times the denominator 4, plus the numerator 3. The denominator copies the original denominator 4.
+Simplifying the numerator, we have 43 over 4 as our improper fraction.
+Let's look at another example. Write the mixed fraction seven and two ninths as an improper fraction.
+Our numerator is the whole number 7 times the denominator 9, plus the numerator 2. The denominator copies the original denominator 9.
+Simplifying the numerator, we have 65 over 9 as our improper fraction.
+To convert an improper fraction into a mixed fraction, we divide the numerator by the denominator. The quotient is the whole number part of the mixed fraction, and the remainder over the original denominator is the fractional part of the mixed fraction.
+Let's look at an example. Write the improper fraction 55 over 6 as a mixed fraction.
+Dividing 55 by 6, we get a quotient of 9 with a remainder of 1. So our mixed fraction is nine and one sixth.
