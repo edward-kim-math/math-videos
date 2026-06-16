@@ -1,0 +1,10 @@
+What is the point of the y-intercept of a line that has a slope of -2/3 and passes through (6, 2)?
+Since we have a point and a slope, using the point-slope form y minus y1 equals m times the quantity x minus x1 is fastest. We plug in the coordinates of a point for x1 and y1, and leave x and y themselves alone. We also plug in for the slope where m is.
+In this case, we get y minus 2 equals negative 2 over 3 times the quantity x minus 6. We actually don't need to bother with distributing the -2/3 or any other work of that kind, since the question just wants the y-intercept.
+Instead, what we can do is plug in x = 0 to find the y-coordinate of the y-intercept. Why does this work?
+The y-intercept is on the y-axis, and all along the y-axis, the x-coordinate (the horizontal coordinate) is 0. To remain on the y-axis, we can't have any movement to the left or right, which is why the horizontal coordinate, the x-coordinate, is 0.
+When we plug in x = 0, we get y minus 2 equals negative 2 over 3 times the quantity 0 minus 6.
+When we simplify the right side, we get y minus 2 equals negative 2 over 3 times negative 6. 
+Simplify the right side. Negative two thirds times negative six is four. So y minus 2 equals 4.
+Adding 2 to both sides, we get y equals 6. This is the y-coordinate of the y-intercept.
+Presented as a point, the point of the y-intercept is (0, 6).

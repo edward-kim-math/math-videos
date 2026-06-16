@@ -1,0 +1,67 @@
+\documentclass{beamer}
+\usepackage{amsmath}
+\setbeameroption{show notes on second screen=right}
+\setbeamertemplate{note page}[plain]
+\setbeamerfont{note page}{size=\footnotesize}
+\beamertemplatenavigationsymbolsempty
+
+\begin{document}
+
+\begin{frame}
+\frametitle{}
+
+What is the point of the y-intercept of a line that has a slope of $-\frac23$ and passes through $(6, 2)$?
+\note{\alert<1>{What is the point of the y-intercept of a line that has a slope of -2/3 and passes through (6, 2)?}}
+
+\vskip10pt
+\pause
+Point-slope form: $y - y_1 = m(x-x_1)$
+\note{\alert<2>{Since we have a point and a slope, using the point-slope form y minus y1 equals m times the quantity x minus x1 is fastest. We plug in the coordinates of a point for x1 and y1, and leave x and y themselves alone. We also plug in for the slope where m is.}}
+\pause \vskip4pt
+$y - 2 = -\frac23(x - 6)$
+\note{\alert<3>{In this case, we get y minus 2 equals negative 2 over 3 times the quantity x minus 6. We actually don't need to bother with distributing the -2/3 or any other work of that kind, since the question just wants the y-intercept.}}
+
+\pause\note{\alert<4>{Instead, what we can do is plug in x = 0 to find the y-coordinate of the y-intercept. Why does this work?}}
+\vskip10pt
+\pause\emph{The y-intercept is the point where the line crosses the y-axis. On the y-axis, the x-coordinate is always 0.}
+\note{\alert<5>{The y-intercept is on the y-axis, and all along the y-axis, the x-coordinate (the horizontal coordinate) is 0. To remain on the y-axis, we can't have any movement to the left or right, which is why the horizontal coordinate, the x-coordinate, is 0.}}
+
+\vskip10pt
+\pause $y-2 = -\frac23(0-6)$
+\note{\alert<6>{When we plug in x = 0, we get y minus 2 equals negative 2 over 3 times the quantity 0 minus 6.}}
+
+\vskip4pt
+\pause $y-2 = -\frac23(-6)$
+\note{\alert<7>{When we simplify the right side, we get y minus 2 equals negative 2 over 3 times negative 6. }}
+
+\vskip4pt
+\pause $y-2 = 4$
+\note{\alert<8>{Simplify the right side. Negative two thirds times negative six is four. So y minus 2 equals 4.}}
+
+\vskip4pt
+\pause $y = 6$
+\note{\alert<9>{Adding 2 to both sides, we get y equals 6. This is the y-coordinate of the y-intercept.}}
+
+\vskip4pt
+\pause The point of the $y$-intercept is $(0, 6)$.
+\note{\alert<10>{Presented as a point, the point of the y-intercept is (0, 6).}}
+
+\end{frame}
+
+
+
+%% Blank frames at the end to prevent weird shifts.
+\begin{frame}
+\end{frame}
+\begin{frame}
+\end{frame}
+\begin{frame}
+\end{frame}
+\begin{frame}
+\end{frame}
+\begin{frame}
+\end{frame}
+\begin{frame}
+\end{frame}
+
+\end{document}

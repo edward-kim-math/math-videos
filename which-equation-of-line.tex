@@ -1,0 +1,67 @@
+\documentclass{beamer}
+\usepackage{amsmath}
+\setbeameroption{show notes on second screen=right}
+\setbeamertemplate{note page}[plain]
+\setbeamerfont{note page}{size=\footnotesize}
+\beamertemplatenavigationsymbolsempty
+
+\begin{document}
+
+\begin{frame}
+\frametitle{}
+
+Find an equation of the line passing through the points $(-2,4)$ and $(6,8)$.
+\note{\alert<1>{Find an equation of the line passing through the points (-2,4) and (6,8).}}
+
+\vskip4pt
+\pause
+\emph{Note: there are many possible final answers. All answers require finding slope. When you have slope and a point, then the point-slope form is fastest.}
+\note{\alert<2>{There are many possible equations for the same line. All answers require finding slope. When you have slope and a point (and note, we actually have *two* points), then the point-slope form is fastest.}}
+
+\vskip10pt
+\pause $m = \frac{8-4}{6-(-2)} \pause = \frac{4}{8} = \frac{1}{2}$
+\note{\alert<3>{To compute the slope, we can do the y-value 8 minus the y-value 4 on top, and the bottom would then have to be the x-value 6 minus the x-value -2.}}
+\note{\alert<4>{This simplifies to 4 over 8, which simplifies to 1 over 2.}}
+
+\vskip4pt
+\pause $m = \frac{4-8}{-2-(6)} \pause = \frac{-4}{-8} = \frac{1}{2}$
+\note{\alert<5>{We can also find the slope by doing the y-value 4 minus the y-value 8 on top, but then we have follow that order, and the bottom would then have to be the x-value -2 minus the x-value 6.}}
+\note{\alert<6>{This simplifies to -4 over -8, which simplifies to 1 over 2. Either way, we get the same slope of one half.}}
+
+\vskip8pt
+
+\pause Acceptable final answer: $y - 8 = \frac12(x-6)$
+\note{\alert<7>{One acceptable final answer is to use the point-slope form with the point (6, 8) and the slope one half. Then, we have y minus 8 equals one half times the quantity x minus 6.}}
+
+\vskip8pt
+
+\pause Acceptable final answer: $y - 4 = \frac12(x+2)$
+\note{\alert<8>{Another acceptable final answer is to use the point-slope form with the point (-2, 4) and the slope one half. Then, we have y minus 4 equals one half times the quantity x plus 2. The reason we have x plus 2 is this simplifies the original x minus negative 2.}}
+
+\vskip8pt
+\pause $y - 8 = \frac12x - 3$
+\note{\alert<9>{Say we needed an answer in slope-intercept form. We can start from either of our two equations above. If we start from y minus 8 equals one half times the quantity x minus 6, then we can distribute one half on the right, so the right side ends up being one half x minus 3.}}
+
+\vskip4pt
+\pause $y = \frac12x + 5$, another acceptable final answer.
+\note{\alert<10>{Adding 8 to both sides, we get y equals one half x plus 5.}}
+
+\end{frame}
+
+
+
+%% Blank frames at the end to prevent weird shifts.
+\begin{frame}
+\end{frame}
+\begin{frame}
+\end{frame}
+\begin{frame}
+\end{frame}
+\begin{frame}
+\end{frame}
+\begin{frame}
+\end{frame}
+\begin{frame}
+\end{frame}
+
+\end{document}
