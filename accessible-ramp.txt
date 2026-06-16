@@ -1,0 +1,9 @@
+The dimensions for building a wheelchair ramp is for every one inch of vertical rise there must be at least 12 inches of horizontal run.
+I measured a wheelchair access ramp that measured 100 inches long and led up to a door 8 inches off the ground. Is this ramp accessible?
+Recall that slope is rise over run.
+In other words, slope is the change in y over the change in x. To recall that "change in y" is on top, remember "rise over run", as the phrase "run over rise" sounds funny. Then, knowing that "rise" is on top, recall that "rise" is how much you go up, and that "y" is the vertical coordinate.
+The maximum slope for an accessible ramp is 1 over 12, since we were told 1 inch of vertical rise requires at least 12 inches of horizontal run.
+This is zero point zero eight three, with a repeating three. Anything larger than this slope would be too steep, so inaccessible.
+The slope of the actual ramp is 8 over 100. The question told us the number 100 first, but that does not *automatically* make that the numerator. The number 100 is described as the horizontal distance, or the run. Note that the last number given to us is 8, and that's how far off the ground the door is, so that is the rise. To make us think, the question told us the rise of the ramp *after* telling us the run.
+This slope 8 over 100 is also equal to 0.08.
+Since 0.08 is less than 0.083, the ramp is accessible.

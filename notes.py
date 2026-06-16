@@ -20,7 +20,10 @@ text = infile.read_text(encoding="utf-8")
 #matches = re.findall(r'\[([^\[\]]*)\]', text)
 
 # Find all occurences of text inside \note[item]{\alert<number>{text to extract}}
-matches = re.findall(r'\\note\[item\]\{\\alert<\d+>\{([^{}]*)\}\}', text)
+# matches = re.findall(r'\\note\[item\]\{\\alert<\d+>\{([^{}]*)\}\}', text)
+# modify this so that [item] is optional
+matches = re.findall(r'\\note(?:\[item\])?\{\\alert<\d+>\{([^{}]*)\}\}', text)
+
 
 outfile = infile.with_suffix(".txt")
 
