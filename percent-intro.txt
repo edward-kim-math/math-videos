@@ -1,0 +1,37 @@
+24 is what percent of 150?
+Each percent is represented as a decimal. For example, 28 percent is represented as the decimal 0.28.
+Following the order of the sentence, we set up an equation. Read the original equation from left to right to build the equation.
+24
+The word "is" is represented by the equal sign.
+"What percent" is represented by the variable $x$.
+The word "of" is the multiplication sign.
+Finally, the question ends with 150, so our equation has 150 after the multiplication sign. In full, our equation is 24 equals x times 150.
+Dividing both sides by 150, we have 24 divided by 150 equals x.
+Simplifying the left side, 0.16 is equal to x.
+The decimal 0.16 is equal to 16 percent. So x equals 16 percent.
+27 is 30 percent of what number?
+We can set up an equation based on the fact that 27 is 30 percent of some unknown number n. We built this equation by scanning the original question slowly from left to right. We wrote n to represent the phrase "what number". In full, our equation is 27 equals 0.30 times n.
+To solve for n, we divide both sides by 0.30. So we have 27 divided by 0.30 equals n.
+Simplifying the left side, we have 90 equals n.
+What is 125 percent of 36?
+We create an equation, scanning the original question from left to right.
+The equation we write is x equals 1.25 times 36. The variable x represents the phrase "what", and 125 percent is represented as the decimal 1.25.
+Note that due to the language of this problem, x is already "solved for". That is, x is already on one side of the equation on its own. So we don't have to do anything to both sides. We should just simplify the arithmetic on the right side.
+Simplifying the right side, we have x equals 45.
+Jenn uses her 20 percent off coupon to buy new running shoes. If the sales price of the shoes was 45 dollars, what was the original price of the shoes?
+We can use the formula that sales price is equal to original price minus discount amount.
+Let's fill in the most challenging spot first, which is the discount amount located after the minus sign. The discount amount is 20 percent of the original price, so we can write the discount amount as 0.20 times x, where x is the original price.
+Next, we can fill in the original price, which is represented by x.
+Finally, we can fill in the sales price, which is 45 dollars.
+Because it will help us later, we can say that we have 1x instead of just x.
+Putting this all together, we have 45 equals 1 times x minus 0.20 times x.
+Combining like terms on the right side, we have 45 equals 0.80 times x.
+Dividing both sides by 0.80, we have 45 divided by 0.80 equals x.
+Simplifying the left side, we have 56.25 equals x.
+So the original price of the shoes was 56 dollars and 25 cents.
+Percent change reflects the change between an old value and a new value relative to the old value.
+The formula for percent change is new value minus old value divided by old value, all multiplied by 100.
+Let's look at this example. The price of a burger increased from 2 dollars and 50 cents in 2000 to 4 dollars in 2015. What was the percent increase?
+To find the percent increase, we can use the percent change formula. The new value is 4 dollars, and the old value is 2 dollars and 50 cents. So we have 4.00 minus 2.50 divided by 2.50, all multiplied by 100.
+Note that we are calculating a percent increase, so we are using the new value minus the old value. If we were calculating a percent decrease, we would use the old value minus the new value.
+Simplifying the fraction, we have 1.50 divided by 2.50, which is 0.60, which needs to be multiplied by 100, giving a 60 percent increase.

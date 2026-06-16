@@ -1,0 +1,18 @@
+The ratio of Packers to Vikings fans in a marching band is 5 to 3. If there are 270 Packers fans in the marching band, how many Vikings fans are there?
+The ratio of 5 to 3 means that if there were 10 Packers fans, there would be 6 Vikings fans.
+We can set up a proportion to solve this problem. Let v be the number of Vikings fans in the marching band.
+We can set up a proportion based on the given ratio. Our equation is 5 over 3 equals 270 over v.
+When we have one fraction equal to another fraction, we can cross multiply. (In another setting, when we were multiplying fractions, we can't do that, and instead we multiply straight across.) So 5 times v equals 3 times 270.
+We can simplify the right side of the equation. 3 times 270 equals 810. So we have 5 times v equals 810.
+To solve for v, we divide both sides of the equation by 5. So v equals 810 divided by 5. Simplified, v equals 162.
+Therefore, there are 162 Vikings fans in the marching band.
+The ratio of people who ordered pizza to people who ordered pasta at a restaurant is 3 to 4. If there were 875 total customers this week, how many people ordered pasta?
+In this problem, we don't know how many people ordered pizza, and we don't know how many people ordered pasta.
+But we can think of the 875 total people being put into 7 equal-sized groups. (There are 3 pizza groups and 4 pasta groups.) That's a total of 7 groups.
+How many people are in each group? We can divide 875 by 7 to find out.
+875 divided by 7 equals 125. So there are 125 people in each group.
+Since there are 4 pasta groups, the number of people who ordered pasta is 4 times 125, which equals 500.
+As another way to answer, we can go back to seeing that there are 7 total groups and set up a part-to-whole proportion.
+We can set up a proportion based on the fact that there are 4 pasta groups out of 7 total groups. So 4 over 7 equals p over 875, where p is the number of people who ordered pasta.
+When we have one fraction equal to another fraction, we can cross multiply. So 7 times p equals 4 times 875.
+Divide both sides by 7. So p equals 500. We again recover the same answer.
