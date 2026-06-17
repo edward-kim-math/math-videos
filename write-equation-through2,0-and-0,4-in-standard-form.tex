@@ -1,0 +1,66 @@
+\documentclass{beamer}
+\usepackage{amsmath}
+\setbeameroption{show notes on second screen=right}
+\setbeamertemplate{note page}[plain]
+\setbeamerfont{note page}{size=\footnotesize}
+\beamertemplatenavigationsymbolsempty
+
+\begin{document}
+
+\begin{frame}
+\frametitle{}
+
+Which of these equations is the equation of the line going through $(2,0)$ and $(0,4)$?
+\begin{enumerate}[a]
+    \item $x+2y=4$
+    \item $2x+y=4$
+    \item $-2x+y=4$
+    \item $2x-y=4$
+    \item $x-2y=4$
+\end{enumerate}
+
+\note{\alert<1>{Which of these equations is the equation of the line going through (2,0) and (0,4)? A, x + 2y = 4. B, 2x + y = 4. C, -2x + y = 4. D, 2x - y = 4. E, x - 2y = 4.}}
+
+\pause\note{\alert<2>{We can check which equation is correct by plugging in the coordinates of the two points. That is, both points need to satisfy the equation that is relevant.}}
+\pause
+\vskip4pt
+\hrule
+\vskip4pt
+$x+2y=4$\note{\alert<3>{Let's check the first equation x plus 2y equals 4 with the points (2,0) and (0,4).}}
+\vskip4pt
+\pause $2+2(0)=4$\note{\alert<4>{Plugging in the point (2,0) into the equation x + 2y = 4, we get 2 + 2(0) = 4, which is false since the left side simplifies to 2 and the right side simplifies to 4. We don't bother checking the other point.}}
+
+\pause 
+\vskip4pt
+\hrule
+\vskip4pt
+$2x+y=4$\note{\alert<5>{Let's check the second equation 2x plus y equals 4 with the points (2,0) and (0,4).}}
+\vskip4pt
+\pause $2(2)+0=4$\note{\alert<6>{Plugging in the point (2,0) into the equation 2x + y = 4, we get 2(2) + 0 = 4, which is true, since both sides simplify to 4.}}
+\vskip4pt
+\pause $2(0)+4=4$\note{\alert<7>{Plugging in the point (0,4) into the equation 2x + y = 4, we get 2(0) + 4 = 4, which is true, since both sides simplify to 4.}}
+\vskip4pt
+
+\pause $2x+y=4$ is the equation going through $(2,0)$ and $(0,4)$.
+\note{\alert<8>{So, equation B, which is 2 x plus y equals 4, is the correct equation. This equation goes through both the point (2,0) and the point (0,4).}}
+
+
+\end{frame}
+
+
+
+%% Blank frames at the end to prevent weird shifts.
+\begin{frame}
+\end{frame}
+\begin{frame}
+\end{frame}
+\begin{frame}
+\end{frame}
+\begin{frame}
+\end{frame}
+\begin{frame}
+\end{frame}
+\begin{frame}
+\end{frame}
+
+\end{document}
