@@ -1,0 +1,24 @@
+When multiplying fractions, there is no requirement for a common denominator.
+To multiply fractions, we just multiply straight across.
+Let's look at an example. What is two fifths times three sevenths?
+To multiply fractions, we multiply the numerators together and the denominators together.
+Simplifying the top and bottom, our single fraction is six over thirty-five.
+Let's look at another example. What is x minus three over x minus six times x minus one over x plus six? Note that the 3 and 6 do not cancel in the first fraction. In fact none of the x's cancel in any fraction either.
+As a reminder, for multiplying fractions, there is no need for a common denominator.
+To multiply these fractions, we multiply the numerators together and the denominators together. The previous example was fractions with numbers only. We *still* apply this process for fractions with variables.
+Simplifying the top and bottom, we get x squared minus 4 x plus 3 over x squared plus 6 x minus 6 x minus 36.
+On bottom, the 6 x and negative 6x undo each other. We're left with x squared minus 4 x plus 3 over x squared minus 36.
+Let's look at another example. What is x minus 5 over x squared minus 100 plus two over x minus 10?
+To simplify adding fractions, we need a common denominator, just like we would if we had fractions without variables. Our work becomes easier if we first notice that the first denominator factors as x plus 10 times x minus 10.
+Let's rewrite it like this.
+Then, we can leave the first fraction alone. For the second fraction, multiply the top and bottom by x plus 10.
+As we do this, the second fraction needs the original x minus 10 in parentheses. Without parentheses, the Order of Operations says something else.
+Now that we have a common denominator, we can combine the two fractions into one. The numerator is x minus 5 plus 2 times the quantity x plus 10. The denominator is x plus 10 times x minus 10.
+Distribute the 2 in the numerator. The denominator is x squared minus 100.
+We end with 3 x plus 15 over x squared minus 100. No further cancellations are possible because the last operations on top and bottom are plus and minus, not times.
+Let's look at another example. What is x minus 5 over x squared minus 100 divided by two over x minus 10?
+Leave the first fraction alone, and reciprocate the second fraction at the *same* time that we change the division sign into multiplication.
+Since we are now multiplying fractions, multiply straight across, with no need for a common denominator. 
+We have the quantity x minus 5 times the quantity x minus 10 on top, and the quantity x squared minus 100, close parentheses, times 2 on bottom. *All* parentheses here are needed due to order of operations.
+Expanding everywhere is an option, but that takes us further from a factored form. Instead, we factor the x squared minus 100 on bottom as x plus 10 times x minus 10. Now, everything is a factor, so any common factor on top and bottom will cancel.
+Cancelling the common factor of x minus 10 on top and bottom, we are left with x minus 5 over 2 times the quantity x plus 10. Since nothing further will cancel, it would be fine to leave the denominator like this or to expand by distributing 2.

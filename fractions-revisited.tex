@@ -1,0 +1,137 @@
+\documentclass{beamer}
+\usepackage{amsmath}
+\setbeameroption{show notes on second screen=right}
+\setbeamertemplate{note page}[plain]
+
+\begin{document}
+
+\begin{frame}
+\frametitle{}
+
+When multiplying fractions, there is no requirement for a common denominator.
+\note[item]{\alert<1>{When multiplying fractions, there is no requirement for a common denominator.}}
+\note[item]{\alert<2>{To multiply fractions, we just multiply straight across.}}
+
+\vskip10pt
+
+\pause 
+\pause 
+{\bf Example.} $\frac25 \cdot \frac37$.
+\note[item]{\alert<3>{Let's look at an example. What is two fifths times three sevenths?}}
+
+\vskip4pt
+
+\pause $=\frac{2 \cdot 3}{5 \cdot 7}$ 
+\note[item]{\alert<4>{To multiply fractions, we multiply the numerators together and the denominators together.}}
+
+\vskip4pt
+
+\pause $=\frac{6}{35}$
+\note[item]{\alert<5>{Simplifying the top and bottom, our single fraction is six over thirty-five.}}
+
+\end{frame}
+
+\begin{frame}
+\frametitle{}
+
+{\bf Example.} $\frac{x-3}{x-6} \cdot \frac{x-1}{x+6}$. 
+\note[item]{\alert<1>{Let's look at another example. What is x minus three over x minus six times x minus one over x plus six? Note that the 3 and 6 do not cancel in the first fraction. In fact none of the x's cancel in any fraction either.}}
+
+\vskip10pt
+
+\pause 
+\note[item]{\alert<2>{As a reminder, for multiplying fractions, there is no need for a common denominator.}}
+
+\vskip4pt
+
+\pause $=\frac{(x-3)(x-1)}{(x-6)(x+6)}$
+\note[item]{\alert<3>{To multiply these fractions, we multiply the numerators together and the denominators together. The previous example was fractions with numbers only. We *still* apply this process for fractions with variables.}}
+
+\vskip4pt
+
+\pause $=\frac{x^2-4x+3}{x^2+6x-6x-36}$
+\note[item]{\alert<4>{Simplifying the top and bottom, we get x squared minus 4 x plus 3 over x squared plus 6 x minus 6 x minus 36.}}
+
+\vskip4pt
+
+\pause $=\frac{x^2-4x+3}{x^2-36}$
+\note[item]{\alert<5>{On bottom, the 6 x and negative 6x undo each other. We're left with x squared minus 4 x plus 3 over x squared minus 36.}}
+
+\end{frame}
+
+
+\begin{frame}
+\frametitle{}
+
+{\bf Example.} $\frac{x-5}{x^2-100} + \frac{2}{x-10}$. 
+\note[item]{\alert<1>{Let's look at another example. What is x minus 5 over x squared minus 100 plus two over x minus 10?}}
+
+\vskip10pt
+
+\pause
+\note[item]{\alert<2>{To simplify adding fractions, we need a common denominator, just like we would if we had fractions without variables. Our work becomes easier if we first notice that the first denominator factors as x plus 10 times x minus 10.}}
+
+\pause $=\frac{x-5}{(x+10)(x-10)} + \frac{2}{x-10}$ \pause
+\note[item]{\alert<3>{Let's rewrite it like this.}}
+\note[item]{\alert<4>{Then, we can leave the first fraction alone. For the second fraction, multiply the top and bottom by x plus 10.}}
+
+\vskip4pt
+\pause $=\frac{x-5}{(x+10)(x-10)} + \frac{2(x+10)}{(x-10)(x+10)}$
+\note[item]{\alert<5>{As we do this, the second fraction needs the original x minus 10 in parentheses. Without parentheses, the Order of Operations says something else.}}
+
+\vskip4pt
+\pause $=\frac{x-5 + 2(x+10)}{(x+10)(x-10)}$
+\note[item]{\alert<6>{Now that we have a common denominator, we can combine the two fractions into one. The numerator is x minus 5 plus 2 times the quantity x plus 10. The denominator is x plus 10 times x minus 10.}}
+
+\vskip4pt
+\pause $=\frac{x-5 + 2x+20}{x^2-100}$
+\note[item]{\alert<7>{Distribute the 2 in the numerator. The denominator is x squared minus 100.}}
+
+\vskip4pt
+\pause $=\frac{3x+15}{x^2-100}$
+\note[item]{\alert<8>{We end with 3 x plus 15 over x squared minus 100. No further cancellations are possible because the last operations on top and bottom are plus and minus, not times.}}
+
+\end{frame}
+
+
+
+
+
+\begin{frame}
+\frametitle{}
+
+{\bf Example.} $\frac{x-5}{x^2-100} \div \frac{2}{x-10}$. 
+\note[item]{\alert<1>{Let's look at another example. What is x minus 5 over x squared minus 100 divided by two over x minus 10?}}
+
+\vskip10pt
+
+\pause $=\frac{x-5}{x^2-100} \cdot \frac{x-10}{2}$ 
+\note[item]{\alert<2>{Leave the first fraction alone, and reciprocate the second fraction at the *same* time that we change the division sign into multiplication.}}
+
+\vskip4pt
+\pause $=\frac{(x-5)(x-10)}{(x^2-100)2}$ 
+\note[item]{\alert<3>{Since we are now multiplying fractions, multiply straight across, with no need for a common denominator. 
+We have the quantity x minus 5 times the quantity x minus 10 on top, and the quantity x squared minus 100, close parentheses, times 2 on bottom. *All* parentheses here are needed due to order of operations.}}
+
+\vskip4pt
+\pause $=\frac{(x-5)(x-10)}{(x+10)(x-10)2}$ 
+\note[item]{\alert<4>{Expanding everywhere is an option, but that takes us further from a factored form. Instead, we factor the x squared minus 100 on bottom as x plus 10 times x minus 10. Now, everything is a factor, so any common factor on top and bottom will cancel.}}
+
+\vskip4pt
+\pause $=\frac{x-5}{2(x+10)}$
+\note[item]{\alert<5>{Cancelling the common factor of x minus 10 on top and bottom, we are left with x minus 5 over 2 times the quantity x plus 10. Since nothing further will cancel, it would be fine to leave the denominator like this or to expand by distributing 2.}}
+
+\end{frame}
+
+
+
+
+
+
+%% Blank frames at the end to prevent weird shifts.
+\begin{frame}
+\end{frame}
+\begin{frame}
+\end{frame}
+
+\end{document}

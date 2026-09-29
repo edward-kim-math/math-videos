@@ -1,0 +1,157 @@
+\documentclass{beamer}
+\usepackage{amsmath}
+\setbeameroption{show notes on second screen=right}
+\setbeamertemplate{note page}[plain]
+
+\begin{document}
+
+\begin{frame}
+\frametitle{}
+
+\begin{enumerate}
+\item[Q1.] A cap has an original price of $15$ dollars. There is a $5\%$ discount. What is the final amount paid?
+\item[Q2.] A cap has an original price of $c$ dollars. There is a $5\%$ discount. What is the final amount paid?
+\end{enumerate}
+\note{\alert<1>{We number all the questions in these slides, and will refer back to questions by their number.
+Question 1 says a cap has an original price of 15 dollars. There is a 5 percent discount. What is the final amount paid? 
+Question 2 says a cap has an original price of c dollars. There is a 5 percent discount. What is the final amount paid?}}
+
+\pause
+\vskip10pt
+$0.05(15)$ is not the answer to question 1.
+\note{\alert<2>{Note that 0.05 times 15 is not the answer to question 1. That just tells us how much money is taken off of the original price.}}
+
+\begin{enumerate}
+\pause\item[A1.] $15 - 0.05(15)$
+\note{\alert<3>{The answer to question 1 is 15 minus 0.05 times 15. While this can simplify, we leave this as is so that we can see patterns. This technically answers the question, though just not simplified.}}
+\pause\item[A2.] $c - 0.05c$
+\note{\alert<4>{The answer to question 2 is c minus 0.05 times c. Notice the similarity. Both answers are the original price minus 0.05 times the original price.
+The only difference is that in question 1 the original price is 15, while in question 2 the original price is c.}}
+\end{enumerate}
+
+\vskip4pt
+\pause
+\begin{enumerate}
+\item[Q3.] A cap has an original price of $15$ dollars. There is a $5\%$ tax. What is the final amount paid?
+\item[Q4.] A cap has an original price of $c$ dollars. There is a $5\%$ tax. What is the final amount paid?
+\end{enumerate}
+\note{\alert<5>{Question 3 says a cap has an original price of 15 dollars. There is a 5 percent tax. What is the final amount paid? 
+Question 4 says a cap has an original price of c dollars. There is a 5 percent tax. What is the final amount paid?}}
+
+\begin{enumerate}
+\pause\item[A3.] $15 + 0.05(15)$
+\note{\alert<6>{The answer to question 3 is 15 plus 0.05 times 15.}}
+\pause\item[A4.] $c + 0.05c$
+\note{\alert<7>{The answer to question 4 is c plus 0.05 times c. Notice the similarity. Both answers are the original price plus 0.05 times the original price.
+We add because a tax means paying more. Earlier, we subtracted because a discount means paying less.}}
+\end{enumerate}
+
+\end{frame}
+
+\begin{frame}
+
+\begin{enumerate}
+\item[Q5.] A cap has an original price of $c$ dollars. There is a $5\%$ discount. The final amount paid is $15$ dollars. What is the original price? 
+\end{enumerate}
+\note{\alert<1>{Question 5 says a cap has an original price of c dollars. There is a 5 percent discount. The final amount paid is 15 dollars. What is the original price? 
+We have the same information as in question 2, and the new info that the final amount paid is 15 dollars. Our answer to question 2 was c minus 0.05 times c, which is *one* way to write the final amount paid.
+This question tells us the final amount paid can *also* be 15, so we set these equal.}}
+
+\vskip4pt
+\pause
+$c - 0.05c = 15$
+\note{\alert<2>{In other words, since c minus 0.05 times c is the final amount paid, and since 15 is *also* the final amount paid, we set these equal, since both represent final amount paid.}}
+
+\vskip4pt
+\pause
+$(1 - 0.05)c = 15$
+\note{\alert<3>{We can factor out c from the left side, which gives us 1 minus 0.05 times c equals 15.}}
+
+\vskip4pt
+\pause 
+$c = \frac{15}{1 - 0.05}$
+\note{\alert<4>{We divide both sides by 1 minus 0.05. So we get c is equal to 15 divided by 1 minus 0.05. This is not simplified, but this unsimplified answer is a number that answers question 5.}}
+
+\pause
+\begin{enumerate}
+\item[Q6.] A cap has an original price of $c$ dollars. There is a $5\%$ tax. The final amount paid is $15$ dollars. What is the original price? 
+\end{enumerate}
+\note{\alert<5>{Question 6 says a cap has an original price of c dollars. There is a 5 percent tax. The final amount paid is 15 dollars. What is the original price? }}
+
+\vskip4pt
+\pause
+$c + 0.05c = 15$
+\note{\alert<6>{The answer to question 4 was c plus 0.05 c, which represented the final amount paid. Question 6 tells us that 15 *also* represents the final amount paid. So we set these two expressions equal to create the equation
+c plus 0.05 c equals 15.}}
+
+\vskip4pt
+\pause
+$(1 + 0.05)c = 15$
+\note{\alert<7>{Factor c, so 1 plus 0.05 times c equals 15.}}
+
+\vskip4pt
+\pause 
+$c = \frac{15}{1 + 0.05}$
+\note{\alert<8>{Divide both sides by 1 plus 0.05, so c equals 15 divided by 1 plus 0.05.}}
+
+\end{frame}
+
+\begin{frame}
+
+\begin{enumerate}
+    \item [Q7.] A meal has a price of $m$ dollars before tax and tip. There is a $5\%$ tax. 
+    On the post-tax amount, the customer leaves a $15\%$ tip. The final amount paid is $38$ dollars.
+    What was the pre-tax pre-tip price of the meal?
+\end{enumerate}
+\note{\alert<1>{Question 7. A meal has a price of m dollars before tax and tip. There is a 5 percent tax. On the post-tax amount, the customer leaves a 15 percent tip. The final amount paid is 38 dollars. What was the pre-tax pre-tip price of the meal?}}
+
+\vskip4pt
+\begin{itemize}
+\pause \item Meal only: $m$ dollars
+\note{\alert<2>{The meal alone (before tax or tip) is m dollars.}}
+\pause \item Tax: $0.05m$ dollars
+\note{\alert<3>{The tax is 5 percent of m dollars, which is 0.05 times m dollars.}}
+\pause \item Meal + tax: $m + 0.05m$ dollars
+\note{\alert<4>{The meal and tax together is m plus 0.05 times m. We are just adding the two values from above.}}
+\pause \item Tip: $0.15(m + 0.05m)$ dollars
+\note{\alert<5>{The tip is 15 percent of the post-tax amount, which is 0.15 times the line above: m plus 0.05m, in parentheses due to order of operations.}}
+\pause \item Final amount paid: $m + 0.05m + 0.15(m + 0.05m)$ dollars
+\note{\alert<6>{The final amount paid is meal, the tax, and the tip. The meal was m. The tax was 0.05m. The tip was 0.15 times m plus 0.05m. So the final amount paid is m plus 0.05m plus 0.15 times the quantity m plus 0.05m.}}
+\pause \item Final amount paid: $38$
+\note{\alert<7>{Question 7 tells us that the final amount paid is 38 dollars. Since we have two expressions for the final amount paid, set these equal to each other.}}
+\end{itemize}
+\vskip4pt
+\pause
+$m + 0.05m + 0.15(m + 0.05m) = 38$
+\note{\alert<8>{So m plus 0.05m plus 0.15 times m plus 0.05m equals 38.}}
+
+\vskip4pt
+\pause
+$m + 0.05m + 0.15m + 0.15 \cdot 0.05m = 38$
+\note{\alert<9>{Distributing 0.15 to both terms in the parentheses gives us m plus 0.05m plus 0.15m plus 0.15 times 0.05m equals 38.}}
+
+\vskip4pt
+\pause
+$(1+0.05+0.15+0.15 \cdot 0.05)m = 38$
+\note{\alert<10>{Factoring out m gives us 1 plus 0.05 plus 0.15 plus 0.15 times 0.05 times m equals 38.}}
+
+\vskip4pt
+\pause
+$m = \frac{38}{1+0.05+0.15+0.15 \cdot 0.05}$
+\note{\alert<11>{Divide both sides by 1 plus 0.05 plus 0.15 plus 0.15 times 0.05, so m equals 38 divided by 1 plus 0.05 plus 0.15 plus 0.15 times 0.05.}}
+
+
+\end{frame}
+
+
+
+
+
+
+%% Blank frames at the end to prevent weird shifts.
+\begin{frame}
+\end{frame}
+\begin{frame}
+\end{frame}
+
+\end{document}

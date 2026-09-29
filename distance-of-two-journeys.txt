@@ -1,0 +1,36 @@
+We will examine distance problems with two journeys.
+(Use clear language to identify each journey. The journey might be clear because two people are driving towards each other, so each person represents a journey.
+The story might be one person who rides a bus and then rides a train, so the two journeys are the bus ride and the train ride.
+The story might be one person who drives to a location and then drives back, so the two journeys are the drive to the location and the drive back from the location.)
+Each journey has a distance. In general, we cannot have d be the distance of journey 1 and *also* the distance of journey 2. That *is* allowed if reading the story makes clear that both journeys have the same distance. Otherwise, we have to do something else, including the option of two different variables.
+Each journey has a rate (or speed). Similarly, saying that r is "the rate" is not clear for whether we are taking about the rate of journey 1 or the rate of journey 2. So, whenever introducing a variable, be clear what it refers to.
+Each journey has a time. Similarly, saying that t is "the time" is not clear enough.
+There are 2 journeys, so there are 2 distances, 2 rates, and 2 times. In general, that means we have to keep track of six values, which can potentially all be different.
+What happens with the 2 distances? Read the question carefully to figure out what is happening with the 2 distances. Usually, it's one of the following siuations:
+The two distances might be equal.
+Or the sum of two distances might equal a number given in the question.
+What happens with the 2 times? Again, read carefully. Usually, it's one of the following situations:
+The two times might be equal.
+Or the sum of the two times might equal a number given in the question.
+Or the difference of the two times might equal a number given in the question.
+The distance for a specific journey is equal to that journey's rate multiplied by that journey's time. Distance equals rate times time.
+Be sure to apply this formula to each journey. There is a little bit of an art to minimizing the number of variables created while also capturing all the information in the problem.
+Two kids are riding bikes towards each other. One kid is riding at 12 miles per hour, and the other kid is riding at 15 miles per hour. They start 71 miles apart. 
+How long will it take for them to meet?
+Let's look at the first journey, taken by the first kid. The rate is 12. We don't know the time, but we can call it t. Applying the formula, the distance the first kid travels is 12t.
+Now let's look at the second journey, taken by the second kid. The rate is 15. We don't know the time, but since both kids take the same amount of time, we can *also* put t here. Applying the formula, the distance the second kid travels is 15t.
+Now we have to think. The two kids start 71 miles apart, and they are riding towards each other. So, the sum of the two distances must equal 71. That gives us the equation:
+12t + 15t = 71.
+Combining like terms, we get: 27t = 71.
+Dividing both sides by 27, we find: t = 71 over 27 hours.
+Alix rides a car then rides a high speed train. The car went 60 miles per hour and the train traveled 120 miles per hour.The car and train rides combined took 8 hours. The total distance traveled is 310 miles. How much time was spent on the train?
+Let's look at the first journey, taken by Alix in the car. The rate is 60. We don't know the time, but we can call it t. Applying the formula, the distance traveled in the car is 60t.
+Now let's look at the train journey. The rate is 120. We don't know the time, but since the total time is 8 hours, we can express the train's time as 8 minus t. (Check that adding the other time t to this time of 8 minus t gives a total of 8.) Applying the formula, the distance traveled on the train is 120 times the quantity 8 minus t.
+The two distances must add up to 310 miles, so 60t plus  120 times the quantity 8-t equals 310.
+Distributing the 120, we get 60t + 960 - 120t = 310.
+Combining like terms, we get -60t + 960 = 310.
+To avoid too many minus signs, we can isolate the variable on the right side. Adding 60t to both sides and subtracting 310 from both sides, we get 650 = 60t.
+Dividing both sides by 60, we find t = 650 over 60 hours. But looking at our clearly labeled list, t represents the time in the car. The question asks for the time on the train, which is 8-t, but now we now the value of t.
+So our unsimplified answer is 8 minus 650 over 60 hours.
+Some quick notes about other situations that might occur. If we had a question where one person drove to a location and then drove back to the original location, the trip there and the trip back would have the same distance.
+If we had a question where one person gets a head start over another person by an hour, then the person who has less time could be represented by t and the person with the head start by an extra hour could be represented by t+1.
